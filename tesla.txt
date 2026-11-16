@@ -1,0 +1,9 @@
+142.171.183.227
+2.18.54.207
+
+mail.edu-tesla.com
+
+
+
+
+export PDCP_API_KEY=7aab03c5-8a41-4b38-97b8-dd089d2a7142
